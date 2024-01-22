@@ -1,0 +1,6 @@
+Number,Question,Option1,Option2,Option3,Option4,Right answer
+1,The capital of Russia is a,Moscow,Saint Petersburg,Kazan,Novosibirsk,Moscow
+2,The capital of Belarus is a,Grodno,Brest,Gomel,Minsk,Minsk
+3,The capital of Ukraine is a,Donetsk,Nikolaev,Kyiv,Dnepropetrovsk,Kyiv
+4,The capital of Poland is a,Gdansk,Warsaw,Krakow,Poznan,Warsaw
+5,The capital of German is a,Gamburg,Munich,Berlin,Cologne
