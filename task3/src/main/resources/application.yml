@@ -1,0 +1,7 @@
+file:
+    name: questions.csv
+
+spring:
+    messages:
+        basename:
+
